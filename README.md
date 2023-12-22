@@ -129,3 +129,5 @@ ip route 192.168.1.0 255.255.255.0 10.10.10.1
 ## Проверка правильности выполнения работы
 
 ![image](https://github.com/Vladislav789k/TOIB-PR6.2/assets/71137501/f1f4fe89-0d37-490c-b12a-cfcb008cfbf5)
+![image](https://github.com/Vladislav789k/TOIB-PR6.2/assets/71137501/66934985-fd93-4ac5-a31c-657e8762402e)
+
